@@ -1,1 +1,4 @@
 # Challenge_6
+
+** I'm an Analyst for Proptech, the application of technology to real-estate markets, a well respected company in the fintech industry. This project is to provide a one-click service for people wanting to buy
+properties and then rent them out. This is a trial project primarily based in the San Francisco real-estate market, containing interactive visuals and geospatial analysis for properties in the market to determine viable investment opportunities. With this trial run, depending on it's usefulness and accuracy, will eventually expand to other real-estate markets. The data contained in this project are based off 2010-2016 data of selected neighborhoods in San Francisco, highlighted the amound of housing units, gross rental income and price.**
